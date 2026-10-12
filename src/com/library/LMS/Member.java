@@ -1,4 +1,4 @@
-package com.library;
+package com.library.LMS;
 
 public class Member extends User {
 
